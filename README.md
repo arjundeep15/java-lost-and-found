@@ -15,6 +15,3 @@ A beginner-friendly campus lost-and-found portal built with Java Spring Boot, Th
 
 ## Security warning
 This is an educational starter, not production-ready. Before using real accounts or deploying publicly, enable Spring Security, hash passwords using BCrypt, add input validation and CSRF protection, and store credentials in environment variables.
-
-## Deployment
-A traditional Spring Boot application needs a Java-capable host and a managed MySQL database. Vercel's static hosting alone does not run an always-on Spring Boot server.
